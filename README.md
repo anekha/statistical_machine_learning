@@ -1,3 +1,3 @@
 # statistical_machine_learning
 
-Projects done in Fal23 under Statistical Machine Learning
+Coursework and projects completed in Fall23 for the Statistical Machine Learning module at Rice (COMP 540)
